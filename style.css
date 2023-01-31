@@ -1,3 +1,13 @@
 body{
-    background-color:rgb(177, 220, 240);
+    background-color:rgb(223, 182, 47);
+}
+
+a{
+
+    color:green;
+}
+
+a:hover{
+    color: blueviolet;
+    text-decoration: underline;
 }
